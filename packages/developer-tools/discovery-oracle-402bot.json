@@ -6,7 +6,6 @@
   "url": "https://github.com/sam00101011/402.bot-public",
   "runtime": "node",
   "logo": "https://api.402.bot/brand/402bot-logo-400.png",
-  "env": {},
   "remotes": [
     {
       "type": "streamable-http",
